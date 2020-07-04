@@ -1,0 +1,41 @@
+*{
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: #bfd7ea;
+    width: 100%;
+    font-weight: bold;
+    z-index: 1;
+}
+
+.quem-somos{
+    background-color: #ff6663;
+    align-items: center;
+    padding: 145px 0 95px 0;
+    height: 100vh;
+}
+
+.margin{
+    padding: 30px 0;
+}
+
+.top-3{
+    background-color: #0b3954;
+    padding: 95px 0;
+    height: 100vh;
+    color: #ffffff;
+
+}
+
+.contato{
+    background-color: #bfd7ea;
+    height: 100vh;
+    padding: 95px 0;
+}
+
+.footer{
+    background-color: #ff6663;
+}
